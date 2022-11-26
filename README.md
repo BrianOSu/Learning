@@ -1,2 +1,2 @@
 # Learning
-Collection of coding tasks/challenges used while helping to learn various languages
+Collection of coding tasks/challenges used while learning various languages
